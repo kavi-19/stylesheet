@@ -1,0 +1,34 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image:url('images.html/IMAGE-landscape-default-women.jpg');
+  background-size: cover;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+}
+nav{
+
+  color:black;
+  padding: 15px;
+}
+h1,li,ul{
+  display: inline;
+}
+ul{
+  margin-left: 60%;
+  }
+li{
+  color: black;
+  cursor: pointer;
+}
+li:hover{
+  color:white;
+}
+input{
+  width:60%;
+  padding:15px;
+}
+.searchbar{
+    padding: 40px;
+    text-align: center;
+}
